@@ -1,3 +1,6 @@
+
+#коментар 
+#lfklfd
 def in_asc_order(arr, n):
     return all(
         arr[i] <= arr[i + 1] for i in range(n - 1)
